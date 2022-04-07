@@ -12,8 +12,8 @@ el escribir, tratare de actualizar este blog y veremos que pasa.
 
 Mis epectativas para este proyecto son:
 
--Aprender backend
--Dominar un poco mas el uso de Git y Github
--Conectar lo aprendido en Front con Back
+- Aprender backend
+- Dominar un poco mas el uso de Git y Github
+- Conectar lo aprendido en Front con Back
 
 🚀
